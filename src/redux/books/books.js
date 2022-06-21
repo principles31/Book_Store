@@ -5,19 +5,19 @@ const initialBook = [
   {
     id: 1,
     author: 'Emmanuel Mensah',
-    books: 'The fierce village',
+    books: 'Fragments',
     category: '',
   },
   {
     id: 2,
-    author: 'Gofrey Zimba',
-    books: 'Good deeds',
+    author: 'Ama Ata Aidoo',
+    books: 'After The Ceremonie',
     category: '',
   },
   {
     id: 3,
-    author: 'Mathews Zulu',
-    books: 'The old village',
+    author: 'Kofi Anyidoho',
+    books: 'The Word Behind Bars',
     category: '',
   },
 ];
