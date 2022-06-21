@@ -4,7 +4,7 @@ const REMOVE_BOOK = 'book-store/books/REMOVE_BOOK';
 const initialBook = [
   {
     id: 1,
-    author: 'Daniel Banda',
+    author: 'Emmanuel Mensah',
     books: 'The fierce village',
     category: '',
   },
