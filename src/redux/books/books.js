@@ -24,7 +24,7 @@ const bookReducer = (state = initialBook, action) => {
       }]];
 
       axios.post(baseUrl, objBook);
-      // console.log(state);
+
       return [...state, newState];
     }
 
