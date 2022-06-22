@@ -5,7 +5,7 @@ import Books from './Books';
 const BookContent = ({ books }) => (
   <ul className="book-content">
     {
-books.map((book) => <Books key={book.id} book={book} />)
+books.map((book) => <Books key={book.item_id} book={book} />)
 }
   </ul>
 
@@ -14,7 +14,7 @@ BookContent.propTypes = {
   books: PropTypes.arrayOf(
     PropTypes.shape({
       id: PropTypes.number.isRequired,
-      books: PropTypes.string.isRequired,
+      title: PropTypes.string.isRequired,
       author: PropTypes.string.isRequired,
       category: PropTypes.string.isRequired,
     }).isRequired,
