@@ -11,7 +11,7 @@ Screenshot from 2022-06-23 13-41-39.png
 - React
 
 ## Live Demo (if available)
-[Live Demo Link](Ccoming soon)
+[Live Demo Link]( https://principles31.github.io/Book_Store/)
 
 
 
