@@ -1,0 +1,34 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  height: 80px;
+  padding-left: 95px;
+  width: 100%;
+}
+
+.nav-heading {
+  color: #0290ff;
+  width: 50%;
+}
+
+.nav-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 35%;
+  gap: 20px;
+}
+
+.h {
+  color: rgb(161, 154, 154);
+  text-decoration: none;
+}
+
+.profile {
+  color: #0290ff;
+  align-self: flex-end;
+  margin-bottom: 30px;
+  margin-right: 150px;
+}

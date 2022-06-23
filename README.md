@@ -1,5 +1,5 @@
 # BOOK STORE
-
+Screenshot from 2022-06-23 13-41-39.png
 > A web app for adding, removing and editing books.
 
 
@@ -11,7 +11,7 @@
 - React
 
 ## Live Demo (if available)
-[Live Demo Link](Ccoming soon)
+[Live Demo Link]( https://principles31.github.io/Book_Store/)
 
 
 
@@ -68,6 +68,9 @@ npx eslint .
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
+
+- Microverse
+- [inspired by the zeplin website microverse design](https://zeplin.io/)
 
 - Hat tip to anyone whose code was used
 
