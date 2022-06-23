@@ -1,7 +1,6 @@
 # BOOK STORE
-Screenshot from 2022-06-23 13-41-39.png
 > A web app for adding, removing and editing books.
-
+![boostore](https://user-images.githubusercontent.com/90258833/175336366-e6b32763-cb67-4ab2-b3a6-d97bd53d6639.png)
 
 ## Built With
 
@@ -10,7 +9,7 @@ Screenshot from 2022-06-23 13-41-39.png
 - JAVASCRIPT
 - React
 
-## Live Demo (if available)
+## Live Demo 
 [Live Demo Link]( https://principles31.github.io/Book_Store/)
 
 
