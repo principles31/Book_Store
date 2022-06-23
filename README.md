@@ -69,6 +69,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
+- Microverse
+- [inspired by the zeplin website microverse design](https://zeplin.io/)
+
 - Hat tip to anyone whose code was used
 
 ## 📝 License
